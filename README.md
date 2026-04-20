@@ -9,7 +9,7 @@ Unlike flashy tools, **T-labzz** avoids unnecessary aesthetics to keep things fa
 
 ---
 
-## ⚙️ What It Does
+## What It Does
 
 T-labzz automates:
 
@@ -23,21 +23,21 @@ All of this happens automatically from the moment the script runs.
 
 ---
 
-## ⚠️ Important Note
+## Important Note
 
 **Once T-labzz starts running, do not close or switch the terminal.**  
 Interrupting it mid-process may cause misconfigurations or incomplete setups.
 
 ---
 
-## 🔐 Root Access Required
+## Root Access Required
 
 T-labzz checks your UID and will exit if not run with `sudo` or as `root`.  
 This ensures proper creation of directories and execution of terminal commands.
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Yi-Kyu/T-labzz.git
